@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+my_interface/__init__.py
+my_interface/parent_interface.py
+my_interface/pytransform/__init__.py
+obfuscate_python.egg-info/PKG-INFO
+obfuscate_python.egg-info/SOURCES.txt
+obfuscate_python.egg-info/dependency_links.txt
+obfuscate_python.egg-info/top_level.txt
